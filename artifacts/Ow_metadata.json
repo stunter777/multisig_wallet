@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"multisig_wallet/Multisig.sol": "Ow"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"multisig_wallet/Multisig.sol": {
+			"keccak256": "0xe1645ac275310f3330cb032cfb58376ffca3509365c9acdbc74c11359a458256",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://836dac4d4b51119741325c1a06719b66800110e4d2581f0700e2af3c518ebca8",
+				"dweb:/ipfs/QmYMCWNcmChmWXkkbM1TZMQVfaAbEgX5ygN4G8Wk72s5np"
+			]
+		}
+	},
+	"version": 1
+}
